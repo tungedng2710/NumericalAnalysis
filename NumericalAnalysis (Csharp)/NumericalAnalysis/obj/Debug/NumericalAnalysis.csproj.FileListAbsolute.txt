@@ -1,0 +1,7 @@
+E:\Numerical-Analysis\NumericalAnalysis\NumericalAnalysis\obj\Debug\NumericalAnalysis.csprojAssemblyReference.cache
+E:\Numerical-Analysis\NumericalAnalysis\NumericalAnalysis\obj\Debug\NumericalAnalysis.csproj.CoreCompileInputs.cache
+E:\Numerical-Analysis\NumericalAnalysis\NumericalAnalysis\bin\Debug\NumericalAnalysis.exe.config
+E:\Numerical-Analysis\NumericalAnalysis\NumericalAnalysis\bin\Debug\NumericalAnalysis.exe
+E:\Numerical-Analysis\NumericalAnalysis\NumericalAnalysis\bin\Debug\NumericalAnalysis.pdb
+E:\Numerical-Analysis\NumericalAnalysis\NumericalAnalysis\obj\Debug\NumericalAnalysis.exe
+E:\Numerical-Analysis\NumericalAnalysis\NumericalAnalysis\obj\Debug\NumericalAnalysis.pdb
