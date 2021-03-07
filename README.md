@@ -6,7 +6,7 @@
 <br /> Thư viện Linalg.cs nằm ở đường dẫn NumericalAnalysis (Csharp)/NumericalAnalysis là thư viện hỗ trợ tính toán đại s
 <br /> 
 <br />(English)
-<br /> Numerical Analysis: C# codes. If you don't need modify code, just run NumericalAnalysis.exe (Windows OS is a requirement)
+<br /> Numerical Analysis: C# codes. If you don't want to modify these codes, just run NumericalAnalysis.exe (Windows OS is a requirement)
 <br /> Numerical Method: Python codes. You need run them with python compiler 
 <br /> Requirements for Py codes: numpy, pandas, matplotlib.
 <br />
