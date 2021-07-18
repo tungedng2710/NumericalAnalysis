@@ -1,10 +1,12 @@
 # NumericalAnalysis
-(Content was written in Vietnamese, English below)
+(Vietnamese)
 <br /> Giải tích số: code C#, chạy file NumericalAnalysis.exe (yêu cầu HĐH Windows)
 <br /> Phương pháp số: Code Python, yêu cầu trình biên dịch.
 <br /> Thư viện yêu cầu cho Python: numpy, pandas, matplotlib
+<br />
 <br /> Thư viện Linalg.cs nằm ở đường dẫn NumericalAnalysis (Csharp)/NumericalAnalysis là thư viện hỗ trợ tính toán đại s
 <br /> 
+<br />
 <br />(English)
 <br /> Numerical Analysis: C# codes. If you don't want to modify these codes, just run NumericalAnalysis.exe (Windows OS is a requirement)
 <br /> Numerical Method: Python codes. You need run them with python compiler 
