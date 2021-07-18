@@ -4,7 +4,7 @@
 <br /> Phương pháp số: Code Python, yêu cầu trình biên dịch.
 <br /> Thư viện yêu cầu cho Python: numpy, pandas, matplotlib
 <br />
-<br /> Thư viện Linalg.cs nằm ở đường dẫn NumericalAnalysis (Csharp)/NumericalAnalysis là thư viện hỗ trợ tính toán đại s
+<br /> Thư viện Linalg.cs nằm ở đường dẫn NumericalAnalysis (Csharp)/NumericalAnalysis là thư viện hỗ trợ tính toán véc tơ, ma trận
 <br /> 
 <br />
 <br />(English)
